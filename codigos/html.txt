@@ -1,0 +1,193 @@
+<meta charset="UTF-8">
+
+enlazar css
+<link rel="stylesheet" type="text/css" href="URL">
+este comando se realiza en el head
+
+enlazar js
+ <script src="scripts/phaser.min.js"></script>
+este en el body
+
+<!DOCTYPE>: Se utiliza para especificar la versión de HTML que se está utilizando en la página.
+
+<html>: Define el inicio y el final de la página web.
+
+<head>: Define la sección de encabezado de la página, donde se incluyen elementos como el título de la página, metaetiquetas, scripts, entre otros.
+
+<title>: Define el título de la página web que aparece en la pestaña del navegador.
+
+<body>: Define la sección del cuerpo de la página web, donde se incluyen todos los elementos que se mostrarán en la página.
+
+<h1> a <h6>: Define los encabezados o títulos de diferentes niveles de jerarquía en la página web. El uso de esta etiqueta formateará cualquier texto entre la etiqueta <h> de apertura y la etiqueta </h> de cierre como un Título o subtítulo. Por ejemplo, en <h>Etiqueta de encabezamiento</h2>, <h2> y </h2> serían las etiquetas HTML y "Etiqueta de encabezamiento" es el elemento HTML, es decir, el encabezamiento de la página. 
+
+<a>: Define un enlace que el usuario puede hacer clic para ir a otra página web o a una sección diferente de la misma página.
+
+<img>: Define una imagen que se mostrará en la página web.
+
+
+
+
+
+<p>
+
+Etiquetas de texto HTML 
+
+Párrafo
+
+<h1>
+
+Etiquetas de texto HTML	
+Título 1
+
+<h2>
+
+Etiquetas de texto HTML	
+Título 2
+
+<h3>
+
+Etiquetas de texto HTML	
+Título 3
+
+<h4>
+
+Etiquetas de texto HTML	
+Título 4
+
+<h5>
+
+Etiquetas de texto HTML	
+Título 5
+
+<h6>
+
+Etiquetas de texto HTML	
+Título 6
+
+<strong>
+
+Etiquetas de texto HTML	
+Strong
+
+<em>
+
+Etiquetas de texto HTML	
+Énfasis
+
+<abbr>
+
+Etiquetas de texto HTML	Abreviatura
+<address>
+
+Etiquetas de texto HTML	Información de contacto
+<bdo>
+
+Etiquetas de texto HTML	Anular la dirección actual del texto
+<blockquote>
+
+Etiquetas de texto HTML
+
+Contenido de otra fuente
+<cite>
+
+Etiquetas de texto HTML
+
+Título del libro, trabajo o web
+
+<q>
+
+Etiquetas de texto HTML	
+Cita online 
+
+<code>
+
+Etiquetas de texto HTML
+
+Visualizar una parte del código de programación
+<ins>
+
+Etiquetas de texto HTML	Texto insertado
+<del>
+
+Etiquetas de texto HTML	Texto borrado del documento
+<dfn>
+
+Etiquetas de texto HTML	Término definido dentro de una frase
+<kbd>
+
+Etiquetas de texto HTML	Entrada del teclado
+<pre>
+
+Etiquetas de texto HTML	Texto preformateado
+<samp>
+
+Etiquetas de texto HTML	Muestra de salida de un programa informático
+<var>
+
+Etiquetas de texto HTML	Nombre de variable utilizado en contexto matemático o de programación
+<br>
+
+Etiquetas de texto HTML	Salto de línea sencillo
+<div>
+
+Etiquetas de texto HTML	
+División
+
+<a>
+
+Etiquetas de enlace HTML	Etiqueta de anclaje de un enlace
+<base>
+
+Etiquetas de enlace HTML	
+Url base para todas las Url relativas dentro del documento
+
+<img>
+
+Etiquetas HTML de imagen y objeto	
+Imagen
+
+<area>
+
+Etiquetas HTML de imagen y objeto	Área de un mapa de imagen
+<map>
+
+Etiquetas HTML de imagen y objeto
+
+Mapa de imagen
+
+<param>
+
+Etiquetas HTML de imagen y objeto
+
+Parámetro para un elemento <Objeto>
+<object>
+
+Etiquetas HTML de imagen y objeto
+
+Insertar un objeto
+<ul>
+
+Etiquetas de lista HTML	
+Lista desordenada
+
+<ol>
+
+Etiquetas de lista HTML	Lista ordenada
+<li>
+
+Etiquetas de lista HTML	
+Lista
+
+<dl>
+
+Etiquetas de lista HTML	
+Lista de descripciones 
+
+<dt>
+
+Etiquetas de lista HTML	
+Término en la lista de descripciones 
+
+<dd>
+
+Etiquetas de lista HTML

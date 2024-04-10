@@ -1,0 +1,56 @@
+comandos más comunes:
+
+pwd : el comando pwd (print working directory) - impresión del directorio actual.
+
+ls : el comando ls (list) lista el contenido de un directorio
+
+cd : el comando cd (change directory) - cambiar directorio, permite moverse entre directorios del sistema.
+
+mkdir : el comand mkdir (make directory) crear directorio. tener en cuenta que directorios en el lenguaje se refiere a carpetas.
+
+touch : comando que permite crear archivos, al usar este comando siempre hay que usar una extension: ejemplo (touch "prueba.txt"),(touch "prueba.docx")
+
+rm -r : el comando rm -r (remove) tener cuidado l usarlo ya que borra permanentemente el directorio sin retorno.
+
+help : el comando help (ayuda) escribe help para ver la ayuda disponible, ejemplo PDW --HELP para ejemplos de la salida del comando print working directory.
+
+clear : para limpiar el terminal
+
+Si al usar un comando les aparece (commant not found) es porque probablemente lo estan poniendo en mayúsculas
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+para el tema de git bash cuando iniciaremos con nuestro primer repositorio ver la grabacion de la clase 1 para no cometer errores
+ls
+
+comandos esenciales:
+
+git status : 
+
+git init :
+
+git add : para agregar archivos del directorio al stage (espacio de espera, lugar antes de subirlo al commit)
+git add .  (para agregar todos los archivos del directorio al stage)
+
+git rm --cached{file name} para remover archivo del stage
+
+git commit -m :  (para escribir mensaje sobre lo que agregaste al proyecto y compartirlo) paso donde deberan vincular su correo electronico el cual usaran en GitHub
+
+git config --global user.email "ejemplo@gmail.com"
+
+git config --global user.name "tu nombre"
+
+git log : comando para ver las versiones de nuestro proyecto
+
+git checkout : comando para salirse y cambiar entre las versiones actualizadas o desactualizadas de nuestro proyecto subido a git commit
+
+git checkout main : para salirse a la rama principal del directorio donde se encuentran todos los archivos (desactualizados y actualizados)
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+github.com  pagina del host 
+deben registrarse con el mismo correo que se registraron en git bash
+
+
