@@ -10,3 +10,9 @@ git clone https://github.com/lautaroMartinez0985/ayuda-memoria.git
 
 Enlace de discord
 https://discord.gg/HYBFzEKz
+
+flexbox 
+https://flexboxfroggy.com/
+
+grid 
+https://cssgridgarden.com/
