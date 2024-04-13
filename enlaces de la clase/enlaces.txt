@@ -1,0 +1,12 @@
+lucas dalto https://youtu.be/ELSm-G201Ls?si=w5a0kuz7wlu6d7KT                                                      
+
+enlace de las clases https://us02web.zoom.us/j/89130331442
+
+Enlace de grabación clase 1
+https://vimeo.com/soyhenry/review/932740797/0c1c43e281
+
+Para descargar los apuntes, pegar este comando en la consola de gitbsh 
+git clone https://github.com/lautaroMartinez0985/ayuda-memoria.git
+
+Enlace de discord
+https://discord.gg/HYBFzEKz
