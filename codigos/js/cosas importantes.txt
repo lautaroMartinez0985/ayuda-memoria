@@ -1,0 +1,103 @@
+metodosde arays en js 
+
+push(): Añade uno o más elementos al final de un array y devuelve la nueva longitud del array.
+
+pop(): Elimina el último elemento de un array y lo devuelve.
+shift(): Elimina el primer elemento de un array y lo devuelve, desplazando los elementos restantes hacia abajo para llenar el hueco.
+
+unshift(): Añade uno o más elementos al principio de un array y devuelve la nueva longitud del array.
+
+splice(): Cambia el contenido de un array eliminando elementos existentes y/o agregando nuevos elementos.
+
+slice(): Devuelve una copia superficial de una porción de un array en un nuevo array.
+
+concat(): Combina dos o más arrays creando uno nuevo sin modificar los arrays originales.
+
+indexOf(): Devuelve el primer índice en el que se encuentra un elemento en el array, o -1 si no se encuentra.
+
+lastIndexOf(): Devuelve el último índice en el que se encuentra un elemento en el array, o -1 si no se encuentra.
+
+includes(): Determina si un array incluye un determinado elemento, devolviendo true o false según corresponda.
+
+forEach(): Itera sobre cada elemento del array y ejecuta una función proporcionada para cada elemento.
+
+map(): Crea un nuevo array con los resultados de llamar a una función proporcionada en cada elemento del array original.
+
+filter(): Crea un nuevo array con todos los elementos que pasan la prueba implementada por la función proporcionada.
+
+reduce(): Aplica una función a un acumulador y a cada elemento de un array (de izquierda a derecha) para reducirlo a un solo valor.
+
+reduceRight(): Aplica una función a un acumulador y a cada elemento de un array (de derecha a izquierda) para reducirlo a un solo valor.
+
+every(): Comprueba si todos los elementos de un array cumplen con la condición proporcionada por una función de prueba.
+
+some(): Comprueba si al menos un elemento de un array cumple con la condición proporcionada por una función de prueba.
+
+find(): Devuelve el primer elemento de un array que cumple con la condición proporcionada por una función de prueba.
+
+findIndex(): Devuelve el índice del primer elemento en un array que cumple con la condición proporcionada por una función de prueba.
+
+flat(): Crea un nuevo array con todos los elementos de sub-array concatenados de forma recursiva hasta la profundidad especificada.
+
+flatMap(): Primero mapea cada elemento usando una función de mapeo, luego aplana el resultado en un nuevo array.
+
+join(): Combina todos los elementos de un array en una sola cadena y la devuelve como resultado.
+
+reverse(): Invierte el orden de los elementos de un array in situ.
+
+sort(): Ordena los elementos de un array in situ y devuelve el array ordenado.
+
+toString(): Devuelve una cadena que representa los elementos del array.
+toLocaleString(): Devuelve una cadena que representa los elementos del array. Los elementos se convierten a strings usando su método toLocaleString.
+
+copyWithin(): Copia una secuencia de elementos dentro del array, en la misma secuencia, reemplazando los elementos existentes.
+
+fill(): Rellena todos los elementos del array con un valor estático.
+
+isArray(): Determina si el valor pasado es un array.
+
+keys(): Devuelve un nuevo objeto Array Iterator que contiene las claves para cada índice en el array.
+
+values(): Devuelve un nuevo objeto Array Iterator que contiene los valores de cada índice en el array.
+
+entries(): Devuelve un nuevo objeto Array Iterator que contiene pares clave/valor para cada índice en el array.
+
+from(): Crea una nueva instancia de array a partir de un objeto iterable.
+
+of(): Crea una nueva instancia de array con un número variable de argumentos.
+
+findLast(): Devuelve el último elemento de un array que cumple con la condición proporcionada por una función de prueba.
+
+findLastIndex(): Devuelve el índice del último elemento en un array que cumple con la condición proporcionada por una función de prueba.
+
+copyWithin(): Copia una secuencia de elementos dentro del array, en la misma secuencia, reemplazando los elementos existentes.
+
+flat(): Crea un nuevo array con todos los elementos de sub-array concatenados de forma recursiva hasta la profundidad especificada.
+
+flatMap(): Primero mapea cada elemento usando una función de mapeo, luego aplana el resultado en un nuevo array.
+
+values(): Devuelve un nuevo objeto Array Iterator que contiene los valores de cada índice en el array.
+
+
+length y math:
+
+length: length es una propiedad que se utiliza en JavaScript para obtener la longitud de una cadena de texto o de un array. Por ejemplo,
+ si tienes una cadena de texto "Hola" y la guardas en una variable texto, puedes obtener su longitud con texto.length, lo cual te
+ devolverá 4, ya que la cadena tiene cuatro caracteres. Del mismo modo, si tienes un array miArray con algunos elementos, puedes obtener
+ la cantidad de elementos en el array con miArray.length.
+
+Math: En JavaScript, Math es un objeto incorporado que proporciona métodos y constantes para realizar operaciones matemáticas. Algunos de los métodos más comunes incluyen:
+
+Math.max(): Devuelve el número más grande entre cero o más números proporcionados como argumentos.
+Math.min(): Devuelve el número más pequeño entre cero o más números proporcionados como argumentos.
+Math.random(): Devuelve un número pseudoaleatorio entre 0 (inclusive) y 1 (exclusivo).
+Math.round(): Redondea un número al entero más cercano.
+Math.floor(): Redondea un número hacia abajo al entero más cercano.
+Math.ceil(): Redondea un número hacia arriba al entero más cercano.
+Math.abs(): Devuelve el valor absoluto de un número.
+Math.sqrt(): Devuelve la raíz cuadrada de un número.
+Math.pow(): Eleva un número a una potencia especificada.
+Además de estos métodos, Math también proporciona algunas constantes matemáticas, como:
+
+Math.PI: El valor de pi (π).
+Math.E: La constante de Euler (e).
