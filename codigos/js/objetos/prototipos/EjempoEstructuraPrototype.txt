@@ -1,0 +1,16 @@
+// Definimos un prototipo básico usando una función constructora
+function Persona(nombre, edad) {
+    this.nombre = nombre;
+    this.edad = edad;
+}
+
+// Agregamos un método al prototipo 'Persona'
+Persona.prototype.saludar = function() {
+    console.log("Hola, mi nombre es " + this.nombre + " y tengo " + this.edad + " años.");
+};
+
+// Creamos una instancia de 'Persona'
+let persona1 = new Persona("Juan", 30);
+
+// Accedemos al método 'saludar' del prototipo 'Persona'
+persona1.saludar(); // Salida: Hola, mi nombre es Juan y tengo 30 años.

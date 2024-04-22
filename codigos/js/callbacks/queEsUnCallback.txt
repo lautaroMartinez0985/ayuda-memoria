@@ -1,0 +1,7 @@
+Un callback es una función que se pasa como argumento a otra función y que se ejecuta después de que ocurra algún evento 
+o proceso. En otras palabras, un callback es una forma de decirle a una función qué hacer después de que se 
+haya completado una operación asíncrona o después de que se haya producido un determinado evento.
+
+En JavaScript, los callbacks son una parte fundamental de la programación asincrónica y se 
+utilizan ampliamente en operaciones como la lectura de archivos, las solicitudes HTTP, 
+el manejo de eventos del usuario, entre otros.

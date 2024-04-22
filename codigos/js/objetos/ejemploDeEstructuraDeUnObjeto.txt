@@ -1,0 +1,16 @@
+let persona = {
+    nombre: "Juan",
+    edad: 30,
+    ciudad: "Madrid",
+    saludar: function() {
+        console.log("Hola, soy " + this.nombre + " y tengo " + this.edad + " años.");
+    }
+};
+
+// Acceder a las propiedades del objeto
+console.log(persona.nombre); // Imprime: Juan
+console.log(persona.edad);   // Imprime: 30
+console.log(persona.ciudad); // Imprime: Madrid
+
+// Llamar a un método del objeto
+persona.saludar(); // Imprime: Hola, soy Juan y tengo 30 años.

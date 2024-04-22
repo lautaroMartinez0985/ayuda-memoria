@@ -1,0 +1,6 @@
+
+Un array en programación es una estructura de datos que se utiliza para almacenar una colección ordenada de elementos. Estos elementos pueden ser de cualquier tipo de datos, 
+como números, cadenas de texto, booleanos, objetos, u otros arrays.
+Los arrays son una característica fundamental en la mayoría de los lenguajes de programación, incluido JavaScript.
+
+En JavaScript, los arrays se pueden definir utilizando corchetes [] y separando los elementos por comas.:

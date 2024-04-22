@@ -1,0 +1,19 @@
+En JavaScript, cada objeto tiene un prototipo, con la excepción del objeto raíz Object.prototype, que es el prototipo final en la cadena de prototipos. 
+En otras palabras, todos los objetos en JavaScript heredan propiedades y métodos de al menos un prototipo, hasta llegar al objeto raíz Object.prototype.
+
+Además del objeto raíz Object.prototype, hay otros prototipos predefinidos en JavaScript que son utilizados por tipos de datos específicos:
+
+1.Function.prototype: Todos los objetos de tipo función tienen este prototipo.
+ Define propiedades y métodos que son comunes a todas las funciones en JavaScript.
+
+2.Array.prototype: Todos los objetos de tipo array tienen este prototipo. 
+Define propiedades y métodos que son comunes a todos los arrays en JavaScript.
+
+3.String.prototype: Todos los objetos de tipo string tienen este prototipo.
+ Define propiedades y métodos que son comunes a todas las cadenas de texto en JavaScript.
+
+4.Number.prototype: Todos los objetos de tipo número tienen este prototipo. 
+Define propiedades y métodos que son comunes a todos los números en JavaScript.
+
+5.Boolean.prototype: Todos los objetos de tipo boolean tienen este prototipo. 
+Define propiedades y métodos que son comunes a todos los valores booleanos en JavaScript.

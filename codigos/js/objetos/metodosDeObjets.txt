@@ -1,0 +1,22 @@
+Object.keys(objeto): Devuelve un array con las claves (propiedades) del objeto pasado como argumento.
+
+Object.values(objeto): Devuelve un array con los valores de las propiedades del objeto pasado como argumento.
+
+Object.entries(objeto): Devuelve un array de arrays donde cada sub-array contiene un par [clave, valor] 
+correspondiente a cada propiedad del objeto.
+
+Object.hasOwnProperty(propiedad): Devuelve un booleano indicando si el objeto tiene una propiedad propia con el nombre
+especificado.
+
+Object.assign(objetivo, ...fuentes): Copia los valores de todas las propiedades enumerables de uno o más objetos 
+fuente en el objeto objetivo, y devuelve el objeto objetivo modificado.
+
+Object.freeze(objeto): Congela un objeto, lo que significa que no se pueden agregar, 
+eliminar o modificar sus propiedades existentes.
+
+Object.seal(objeto): Sella un objeto, lo que significa que no se pueden agregar o eliminar propiedades, 
+pero aún se pueden modificar las propiedades existentes.
+
+Object.create(prototipo): Crea un nuevo objeto con el prototipo especificado.
+
+Object.setPrototypeOf(objeto, prototipo): Establece el prototipo del objeto especificado a otro objeto o null.

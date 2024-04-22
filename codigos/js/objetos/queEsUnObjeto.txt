@@ -1,0 +1,6 @@
+Un objeto en programación es una estructura de datos que puede contener datos y funciones, 
+conocidos como propiedades y métodos, respectivamente. Los objetos son una forma de organizar y manipular datos en un 
+lenguaje de programación, permitiendo representar entidades del mundo real de manera más cercana.
+
+En JavaScript, los objetos son una parte fundamental del lenguaje y se utilizan para representar una amplia variedad
+de entidades, desde personas y productos hasta eventos y elementos de la interfaz de usuario.

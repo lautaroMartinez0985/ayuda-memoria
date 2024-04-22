@@ -1,0 +1,17 @@
+Un prototipo en JavaScript es un mecanismo fundamental que permite a los objetos compartir propiedades y métodos entre sí. 
+Cada objeto en JavaScript tiene un enlace interno a otro objeto llamado "prototipo". 
+Cuando intentas acceder a una propiedad o método de un objeto y no lo encuentras en el propio objeto, JavaScript busca en 
+su prototipo y luego en la cadena de prototipos hasta encontrar la propiedad o hasta llegar al final de la cadena.
+
+El prototipo es básicamente un objeto del cual un objeto hereda propiedades y métodos. 
+Esto significa que si agregas una propiedad o método a un prototipo, todas las instancias de objetos que heredan de ese 
+prototipo también tendrán acceso a esa propiedad o método.
+
+El prototipo más básico en JavaScript es el objeto raíz Object.prototype, 
+del cual heredan todos los demás objetos en JavaScript. Sin embargo, puedes definir tus propios prototipos 
+personalizados utilizando funciones constructoras o simplemente asignando un objeto a la propiedad prototype de una función.
+
+En resumen, un prototipo en JavaScript es un objeto del cual otro objeto hereda propiedades y métodos, 
+permitiendo así la reutilización de código y la implementación de la herencia en el lenguaje.
+
+

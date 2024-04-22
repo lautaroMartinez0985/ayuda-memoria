@@ -1,0 +1,8 @@
+En JavaScript, un constructor es una función que se utiliza para crear nuevos objetos con un conjunto predefinido 
+de propiedades y métodos. Los constructores son una forma de definir plantillas para crear objetos con una estructura 
+común.
+
+En versiones más recientes de JavaScript (a partir de ECMAScript 2015), se introdujo la sintaxis de clase para definir 
+constructores de manera más clara y orientada a objetos. Sin embargo, es importante tener en cuenta que, 
+en JavaScript, las clases son en realidad "azúcar sintáctica" sobre la herencia prototípica existente en el lenguaje. 
+Por debajo, las clases en JavaScript se traducen a funciones constructoras y prototipos.

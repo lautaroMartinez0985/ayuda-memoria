@@ -1,0 +1,16 @@
+// Función que realiza una operación asincrónica y llama a un callback cuando se completa
+function operacionAsincronica(callback) {
+    setTimeout(function() {
+        console.log("Operación asincrónica completada.");
+        // Llamar al callback
+        callback();
+    }, 1000);
+}
+
+// Función de callback que se ejecutará después de que se complete la operación asincrónica
+function miCallback() {
+    console.log("Callback ejecutado.");
+}
+
+// Llamar a la función que realiza la operación asincrónica y pasarle el callback
+operacionAsincronica(miCallback);
